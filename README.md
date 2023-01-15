@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Akmot9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akmot9&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akmot9&show_icons=true&theme=radical)
 
 <!--
 **Akmot9/Akmot9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
