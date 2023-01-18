@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Akmot9](https://www.canva.com/design/DAFXvMZ1oSs/view)
+[https://www.canva.com/design/DAFXvMZ1oSs/view](https://www.canva.com/design/DAFXvMZ1oSs/wRRuZCvyEfsBVm8fdbUIvQ/watch?utm_content=DAFXvMZ1oSs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 [![Akmot9](https://github-readme-stats.vercel.app/api?username=Akmot9)](https://github.com/anuraghazra/github-readme-stats)
 
