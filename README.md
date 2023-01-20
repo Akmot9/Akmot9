@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Akmot9]([https://www.canva.com/design/DAFXvMZ1oSs/view](https://www.canva.com/design/DAFXvMZ1oSs/wRRuZCvyEfsBVm8fdbUIvQ/view?utm_content=DAFXvMZ1oSs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+[Akmot9(https://imgs.search.brave.com/OL21CDrC0e10ZvVIkmOyXaoFOymX4OfRbqvubpvPdH8/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5m/M0JTZTNyV3BNSzRT/NnVsRU1pX2VnSGFF/byZwaWQ9QXBp)
 
 
 
