@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 ![banner](https://github.com/Akmot9/Akmot9/blob/main/cyp%20Banner.png)
 
 
