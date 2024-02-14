@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 🦀, I'm Cyprien</h1>
 <h3 align="center">A passionate Rust developer from France</h3>
 
-- 🔭 I’m currently working on [Sonar](https://github.com/Sonar-team/Sonar_cli_app)
+- 🔭 I’m currently working on [Sonar](https://github.com/Sonar-team)
 
 - 🌱 I’m currently learning **Rust, Tauri**
 
